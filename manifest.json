@@ -1,0 +1,13 @@
+{
+	"name": "Lingvo Online",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Translates selected text using Lingvo Online",
+	"background": {
+		"scripts": ["main.js"]
+	},
+	"permissions": ["contextMenus"],
+	"icons": {
+		"16": "icon.png"
+	}
+}
